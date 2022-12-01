@@ -1,5 +1,10 @@
 .carousel-item > img {
     background-size: cover;
-    height: 95vh;
+    height: 50vh;
     object-fit: cover;
+}
+
+.project {
+    display: flex;
+    gap: 1em;
 }
